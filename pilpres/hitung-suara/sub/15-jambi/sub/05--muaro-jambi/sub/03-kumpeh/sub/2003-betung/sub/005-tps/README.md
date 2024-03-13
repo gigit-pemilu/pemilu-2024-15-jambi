@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara Nasional"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 126
+    bar [37, 126, 9]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 37
+    "2" : 126
+    "3" : 9
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 37    | [37][p-1]   | 21,51      |
+| 2   | PRABOWO GIBRAN | 126   | [126][p-2]  | 73,26      |
+| 3   | GANJAR MAHFUD  | 9     | [9][p-3]    | 5,23       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/15-jambi/sub/05--muaro-jambi/sub/03-kumpeh/sub/2003-betung/sub/005-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/15-jambi/sub/05--muaro-jambi/sub/03-kumpeh/sub/2003-betung/sub/005-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/15-jambi/sub/05--muaro-jambi/sub/03-kumpeh/sub/2003-betung/sub/005-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/5e8a/pemilu/ppwp/15/05/03/20/03/1505032003005-20240214-141649--073707bb-49b3-4ee9-83a5-ce1fab1d984c.jpg
+
+https://sirekap-obj-formc.kpu.go.id/5e8a/pemilu/ppwp/15/05/03/20/03/1505032003005-20240214-141804--7db2cf0e-e1ce-48f5-9c08-8a538ed10047.jpg
+
+https://sirekap-obj-formc.kpu.go.id/5e8a/pemilu/ppwp/15/05/03/20/03/1505032003005-20240214-141910--74d81997-8549-43e1-878e-a76aa8b03aa5.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-22 17:00:00 |
+
+
+
