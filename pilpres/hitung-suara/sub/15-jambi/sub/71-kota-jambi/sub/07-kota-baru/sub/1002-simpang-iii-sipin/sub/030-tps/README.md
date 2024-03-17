@@ -1,30 +1,5 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara Nasional"
-    x-axis []
-    y-axis "Suara" 0 --> 0
-    bar []
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-```
-
-## Tabel
-
-| No. | Nama Paslon | Suara | Suara (raw) | Persentase |
-|:--- |:----------- | -----:| -----------:| ----------:|
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/15-jambi/sub/71-kota-jambi/sub/07-kota-baru/sub/1002-simpang-iii-sipin/sub/030-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/15-jambi/sub/71-kota-jambi/sub/07-kota-baru/sub/1002-simpang-iii-sipin/sub/030-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/15-jambi/sub/71-kota-jambi/sub/07-kota-baru/sub/1002-simpang-iii-sipin/sub/030-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/6d26/pemilu/ppwp/15/71/07/10/02/1571071002030-20240215-185802--462c4d9c-6708-4ae6-bbaa-34c11ca81780.jpg
